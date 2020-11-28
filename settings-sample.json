@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "mongodb": {
+        "user": "ben",
+        "password": "password",
+        "host": "cluster.code.mongodb.net/"
+    }
+}
